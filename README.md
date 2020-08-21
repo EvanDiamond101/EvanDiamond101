@@ -1,1 +1,1 @@
-![](softbody.gif)
+![softbody](softbody.gif)
